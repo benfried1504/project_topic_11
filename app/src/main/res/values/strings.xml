@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">project - topic 11</string>
+    <string name="price_with_tax">Price with tax: %1$.2f</string>
+    <string name="price_without_tax">Price without tax: %1$.2f</string>
+</resources>
